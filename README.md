@@ -2,7 +2,7 @@
 
 Machine Learning model to predict online food orders from a particular customer.
 
-## Tech
+## Library Used
 
 - [Python] - General purpose language.
 - [Skicit] -  scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license
